@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @duster73
 - 👀 I’m interested in improving my vorons
-- 🌱 I’m currently learning klipper better
-- 💞️ I’m looking to collaborate on 3d printers
+- 🌱 I’m currently learning klipper better- 
 - 📫 How to reach me duster@nycap.rr.com...
 
 <!---
