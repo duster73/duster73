@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @duster73
-- 👀 I’m interested in improving my vorons
-- 🌱 I’m currently learning klipper better- 
-- 📫 How to reach me duster@nycap.rr.com...
+- 👀 I’m interested in improving my Vorons and Vz-bot
+
 
 <!---
 duster73/duster73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
